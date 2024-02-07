@@ -10,5 +10,6 @@ This project encourages a deeper understanding of file I/O operations and memory
 in the C language
 
 You can compile the code as follows (a buffer size of 42 is used as an example):
-
-- cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 <files>.c
+```
+cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 <files>.c
+```
